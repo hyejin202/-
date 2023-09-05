@@ -1,6 +1,15 @@
 # -
 포폴
-![header](https://capsule-render.vercel.app/api?type=wave&color=#ffc1cc&height=300&section=header&text=Membery%20&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Membery&fontSize=90)
+
+## 목차
+- [프로젝트명](#프로젝트명)
+- [개요](#프로젝트-개요)
+- [사용 기술](#🔨기술🔨)
+- [링크](#🔗링크)
+- [프로젝트 소개](#프로젝트-소개)
+- [담당 기능 구현](#담당-기능-구현)
+- [회고](#회고)
 
 ## 프로젝트명
 ---
@@ -9,7 +18,7 @@ memory + bery의 합성어로 기억 + 작고 달콤한 것이라는 의미입�
 반려동물과의 추억을 간직하자라는 뜻을 담고 있습니다.
 <br>
 
-## 🖥프로젝트 소개
+## 🖥프로젝트 개요
 ---
 반려동물 SNS + 펫시터 구인사이트로 반려동물과의 추억을 기록하고 반려동물을 관리할 수 있는 플랫폼입니다.
 <br>
@@ -45,7 +54,7 @@ memory + bery의 합성어로 기억 + 작고 달콤한 것이라는 의미입�
 - 알림 기능 구현
   <br>
 
-## 기능 구현
+## 담당 기능 구현
 ### 1. 홈페이지 기능
   - 피드 형식으로 구현
   - bxslider로 사진 넘기기
