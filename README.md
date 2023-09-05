@@ -1,12 +1,11 @@
-# -
-포폴
+# 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Membery&fontSize=90)
 
 ## 목차
 - [프로젝트명](#프로젝트명)
 - [개요](#프로젝트-개요)
-- [사용 기술](#🔨기술🔨)
-- [링크](#🔗링크)
+- [사용 기술](#기술)
+- [링크](#링크)
 - [프로젝트 소개](#프로젝트-소개)
 - [담당 기능 구현](#담당-기능-구현)
 - [회고](#회고)
@@ -20,6 +19,8 @@ memory + bery의 합성어로 기억 + 작고 달콤한 것이라는 의미입�
 
 ## 🖥프로젝트 개요
 ---
+<img src="https://github.com/hyejin202/-/issues/1#issue-1881127660" width="700" height="370">
+
 반려동물 SNS + 펫시터 구인사이트로 반려동물과의 추억을 기록하고 반려동물을 관리할 수 있는 플랫폼입니다.
 <br>
 깃허브 주소        : <https://github.com/hyejin202/Membery> <br>
