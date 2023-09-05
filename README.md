@@ -41,7 +41,7 @@ memory + bery의 합성어로 기억 + 작고 달콤한 것이라는 의미입�
 #### 1. 회원가입 및 소셜 로그인
   ![회원가입 및 소셜 로그인](https://github.com/hyejin202/-/assets/123609520/9bcffb00-94df-4923-903d-d7adbf54d053)
 #### 2. 반려동물 등록 및 프로필 설정
-   [네브바, 반려동물 등록 및 프로필 설정](https://github.com/hyejin202/-/assets/123609520/8d94f82e-fc6b-4af8-abfb-d1fadc0c06ac)
+  ![네브바, 반려동물 등록 및 프로필 설정](https://github.com/hyejin202/-/assets/123609520/8d94f82e-fc6b-4af8-abfb-d1fadc0c06ac)
 #### 3. SNS
   ![sns파트](https://github.com/hyejin202/-/assets/123609520/f4af2c31-ee06-4bcf-a79e-44afea1a5ddb)
 -  홈피드, 마이피드, 게시물 crud
@@ -51,9 +51,9 @@ memory + bery의 합성어로 기억 + 작고 달콤한 것이라는 의미입�
   ![함께가개](https://github.com/hyejin202/-/assets/123609520/4551eefc-bb79-4329-91fc-aa7e06186b72)
   - 지도 구현, 장소 찜하기 기능
 #### 5. 펫시터 
-##### 5-1 펫시터 목록 및 상세페이지
+  ##### 5-1 펫시터 목록 및 상세페이지
   ![펫시터1](https://github.com/hyejin202/-/assets/123609520/8ada182b-9d5a-44e2-a65f-31a180cb54f7)
-##### 5-2 예약
+  ##### 5-2 예약
   ![펫시터2](https://github.com/hyejin202/-/assets/123609520/a77dd622-4eee-489a-97ce-171c8b7cafc8)
 - 펫시터 예약, 승인, 거절, 결제 기능
 - 댓글(사용 후기) 기능
@@ -64,22 +64,25 @@ memory + bery의 합성어로 기억 + 작고 달콤한 것이라는 의미입�
 ## 역할
 ### 반려동물 SNS 
 ##### 1. 홈페이지 기능 구현
-- 댓글 C
+- 댓글 CRUD
 - 
 - 알림 기능 구현
   <br>
 
 ## 담당 기능 구현
 ### 1. 홈페이지 기능
-  - 피드 형식으로 구현
+  ![홈피드 기능](https://github.com/hyejin202/-/assets/123609520/88a5a486-e327-4312-a328-7fc61ec40a5c)
+  - semantic ui를 이용한 피드 형식 구현
   - bxslider로 사진 넘기기
   - 피드 클릭 시 해당 게시물 보기로 이동
   - 유저 닉네임 클릭 시 해당 유저의 마이피드로 이동
   - 게시물 등록 시간 '~전'으로 구현
 ### 2. 댓글 기능
+  ![댓글기능](https://github.com/hyejin202/-/assets/123609520/89da2c89-dc63-497c-afac-65629be1c438)
   -  홈페이지 - 모달창으로 구현
   -  게시물 보기 - 목록형식으로 구현, 수정 및 삭제 시 확인 모달창 구현
 ### 3. 알림 기능
+  ![알림기능](https://github.com/hyejin202/-/assets/123609520/d138092d-c05b-4af6-93c5-750ce09ee87a)
   - sns와 펫시터 페이지의 모든 알림을 네브바에서 확인할 수 있도록 구현
     알림 이모티콘 클릭시 알림창 뜸
   - 알림 확인/미확인 표시
