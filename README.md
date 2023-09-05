@@ -1,6 +1,6 @@
 # -
 포폴
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Membery%20총원6&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=#ffc1cc&height=300&section=header&text=Membery%20&fontSize=90)
 
 ## 프로젝트명
 ---
@@ -26,6 +26,16 @@ memory + bery의 합성어로 기억 + 작고 달콤한 것이라는 의미입�
 ### 🔗링크
 ---
 [Membery 링크](http://43.201.54.228:8082/)
+
+## 프로젝트 소개
+- 회원가입 및 소셜 로그인
+  #### SNS
+-  네브바 & 반려동물 등록 및 프로필 설정
+-  홈피드, 마이피드 - 게시물 crud
+-  게시물 등록
+-  댓글, 좋아요 기능
+-  팔로우 기능
+-  
 
 
 ## 역할
